@@ -5,7 +5,7 @@
 ## Project Overview
 In this project, we will analyze data from the NIH Chest X-ray Dataset and train a CNN to classify a given chest x-ray for the presence or absence of pneumonia. This project will culminate in a model that can predict the presence of pneumonia with human radiologist-level accuracy that can be prepared for submission to the FDA for 510(k) clearance as software as a medical device. We will be building upon the VGG 16 model, a convolutional neural network model proposed by K. Simonyan and A. Zisserman from the University of Oxford in the paper “Very Deep Convolutional Networks for Large-Scale Image Recognition”. 
 
-<a href="https://neurohive.io/en/popular-networks/vgg16/"><img src="https://images.app.goo.gl/eBSyhsFGrrYrhWre6" title="VGG 16" alt="VGG 16"></a>
+<a href="https://neurohive.io/en/popular-networks/vgg16/"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fneurohive.io%2Fen%2Fpopular-networks%2Fvgg16%2F&psig=AOvVaw2pDaJ7bP40pmoRVxpvm_g7&ust=1591659928157000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMC2grvx8OkCFQAAAAAdAAAAABAD" title="VGG 16" alt="VGG 16"></a>
 
 ## Project Steps
 This project has the following steps.
